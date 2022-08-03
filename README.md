@@ -2,7 +2,7 @@
   <br>
   <img src="https://raw.githubusercontent.com/thanos-theme/.github/main/assets/image/logo/256x256.png" alt="Thanos theme" width="100">
   <br>
-  Thanos theme for <a href="https://TECHNOLOGY_URL/">Technology</a>
+  Thanos theme for <a href="github.com/Microsoft/Terminal">Windows Terminal</a>
   <br>
 </h1>
 
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img alt="Infinity Dark Variant Preview - JS" src="https://raw.githubusercontent.com/thanos-theme/.github/main/assets/image/previews/visual-studio-code/preview-js.png" width="720">
+  <img alt="Infinity Dark Variant Preview - Windows Terminal" src="preview.png">
 </p>
 
 <details markdown=1 align="end">
@@ -41,7 +41,7 @@ All instructions can be found at [INSTALL.md](./INSTALL.md).
 
 ## Contributors
 
-This theme is a group effort by the following people listed at our [galactic contributors](https://github.com/thanos-theme/technology/graphs/contributors) list.
+This theme is a group effort by the following people listed at our [galactic contributors](https://github.com/thanos-theme/windows-terminal/graphs/contributors) list.
 
 If you want to collaborate just follow the steps under our [Collaboration Guide](https://github.com/thanos-theme/.github/blob/main/docs/COLLABORATE.md) and help the galactic domination of the mad titan.
 
